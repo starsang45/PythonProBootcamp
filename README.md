@@ -1,4 +1,4 @@
-# PythonProBootcamp
+
 # PythonProBootcamp
 
 This repository contains all the exercises, projects, and solutions from the Python 100 Days of Code Bootcamp. It is designed to help beginners and intermediate programmers improve their Python skills.
