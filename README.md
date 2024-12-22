@@ -11,18 +11,118 @@ This repository contains all the exercises, projects, and solutions from the Pyt
 
 ## Table of Contents
 
-1. [Beginner Python](#beginnerPython)
-2. [Intermediate Python](#ImmediatePython)
-3. [Advanced Python](#advancedPython)
-4. [Professional Portfolio](#professionalPortfolio)
+1. Description
+2. [Tools](#toolsCovered)
+3. [Projects](#ProjectsCovered)
+4. [Advanced Python](#advancedPython)
+5. [Professional Portfolio](#professionalPortfolio)
+   
+## Description: 100 Days of Code: The Complete Python  Pro Bootcamp 
+At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. 
+The course is taught by the lead instructor at the App Brewery, London's best in-person programming Bootcamp.
 
-## Beginner 
+## tools
+Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
-Welcome to the PythonProBootcamp! This repository serves as a complete resource for anyone looking to master Python programming, covering everything from basic syntax to advanced concepts.
+Python 3 - the latest version of Python
 
-## Intermediate
+PyCharm, Jupyter Notebook, Google Colab
 
-## Advanced
+Python Scripting and Automation
+
+Python Game Development
+
+Web Scraping
+
+Beautiful Soup
+
+Selenium Web Driver
+
+Request
+
+WTForms
+
+Data Science
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Plotly
+
+Scikit learn
+
+Seaborn
+
+Turtle
+
+Python GUI Desktop App Development
+
+Tkinter
+
+Front-End Web Development
+
+HTML 5
+
+CSS 3
+
+Bootstrap 4
+
+Bash Command Line
+
+Git, GitHub and Version Control
+
+Backend Web Development
+
+Flask
+
+REST
+
+APIs
+
+Databases
+
+SQL
+
+SQLite
+
+PostgreSQL
+
+Authentication
+
+Web Design
+
+Deployment with GitHub Pages, Heroku and GUnicorn
+
+## Projects: 
+
+Blackjack
+
+Snake Game
+
+Pong Game
+
+Auto Swipe on Tinder
+
+Auto Job Applications on LinkedIn
+
+Automate Birthday Emails/SMS
+
+Fully Fledged Blog Website
+
+Build Your Own Public API
+
+Data Science with Google Trends
+
+Analysing Lego Datasets
+
+Google App Store Analysis
+
+
+
+## Advanced Python
 
 ##Portfolio
 
